@@ -3,7 +3,7 @@
 int main() {
 	int end_flg = 0;
 
-	std::cout<< "hello world\n";
+	std::cout<< "aaaaaaaaaaaaaaaaaaaa\n";
 
 	printf("\nコンソールアプリケーションを終了する場合は数字の1を入力しEnterキーを押してください");
 	scanf_s("%d",&end_flg);
