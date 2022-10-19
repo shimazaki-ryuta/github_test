@@ -5,9 +5,9 @@ int main() {
 
 	std::cout<< "Hello GitHub World\n";
 
-	std::cout << "Hello New branch!\n";
+	std::cout << " New branchã€€changed!\n";
 
-	printf("\nƒRƒ“ƒ\[ƒ‹ƒAƒvƒŠƒP[ƒVƒ‡ƒ“‚ðI—¹‚·‚éê‡‚Í”Žš‚Ì1‚ð“ü—Í‚µEnterƒL[‚ð‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢");
+	printf("\nã‚³ãƒ³ã‚½ãƒ¼ãƒ«ã‚¢ãƒ—ãƒªã‚±ãƒ¼ã‚·ãƒ§ãƒ³ã‚’çµ‚äº†ã™ã‚‹å ´åˆã¯æ•°å­—ã®1ã‚’å…¥åŠ›ã—Enterã‚­ãƒ¼ã‚’æŠ¼ã—ã¦ãã ã•ã„");
 	scanf_s("%d",&end_flg);
 	if (end_flg == 1)return 0;
 	else return -1;
