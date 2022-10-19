@@ -5,7 +5,7 @@ int main() {
 
 	std::cout<< "Hello GitHub World\n";
 
-	std::cout << "Hello New branch\n";
+	std::cout << "Hello New branch!\n";
 
 	printf("\nコンソールアプリケーションを終了する場合は数字の1を入力しEnterキーを押してください");
 	scanf_s("%d",&end_flg);
