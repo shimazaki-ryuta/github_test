@@ -5,7 +5,6 @@ int main() {
 
 	std::cout<< "Hello GitHub World\n";
 
-
 	std::cout << " New branch　changed!\n";
 
 	printf("\nコンソールアプリケーションを終了する場合は数字の1を入力しEnterキーを押してください");
